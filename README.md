@@ -4,4 +4,4 @@
 
 எழுத்தாளர்
 ---------
-ம. ஜூலீஎன்: julien.malard@mail.mcgill.ca
+மலர்-ஆதான் ஜூலீஎன்: julien.malard@mail.mcgill.ca
